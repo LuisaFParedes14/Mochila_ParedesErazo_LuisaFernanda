@@ -1,0 +1,14 @@
+CHEATSHEET GIT GITHUB
+
+git init: Se crea un repositorio local.
+git config user.name: Nombre usuario.
+git config user.email: Correo con el que se creo github.
+git clone <url>: Clonar repositorio de github en el computador.
+git add .: Se añaden los archivos para commit.
+git status: Muestra el estado de los archivos modificados o agregados al repositorio.
+git commit -m "mensaje": Realizar commit.
+git push origin master: Subir archivos a repositorio en github.
+git pull origin <nombre>: Busca los cambios nuevos y actualiza el repositorio.
+git remote add origin <url>: Agregar repositorio remoto.
+git branch <nombre>: Crea un nueva rama.
+
