@@ -1,0 +1,13 @@
+1. IP publica y privada de mi maquina virtual:
+
+    Ip privada:  inet 10.0.2.15/24 brd 10.0.2.255 scope global enp0s3
+
+    Ip publica: 186.31.183.225
+
+2. Las direciones MAC:
+
+    link/ether 08:00:27:1f:c7:51
+
+3. Es diferente la IP Publica y privada de nuestra maquina Host
+
+ Si las direcciones de mi maquina virtual y mi maquina Host son diferentes, ya que las maquinas virtuale se configuran como un entorno separado con su propio sistema operativo y recursos de red independientes
